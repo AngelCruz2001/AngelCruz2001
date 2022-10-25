@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelcruz2001&label=Profile%20views&color=0e75b6&style=flat" alt="angelcruz2001" /> </p>
 
-- 🔭 I’m currently working on *Mobile app for remax*
+- 🌱 I’m currently learning *Cibersecurity, advanced Linux.*
 
-- 🌱 I’m currently learning *Cibersecurity, advanced Linux, next js.*
-
-- 👯 I’m looking to collaborate on *Projects related with artificial intelligence project*
-
-- 💬 Ask me about *React js, mongo db, tensorflow.*
+- 💬 Ask me about *React js, mongo db*
 
 - 📫 How to reach me *angi_ed01@hotmail.com*
-
-- 📄 Know about my experiences [I have been developed with a few of business learning how to improve my team working skills.](I have been developed with a few of business learning how to improve my team working skills.)
 
 - ⚡ Fun fact *I'm a magician. 🌟*
 
